@@ -1,0 +1,25 @@
+{
+  "name": "asm-document",
+  "version": "1.0.0",
+  "description": "--- description: >-   Start here to understand the purpose of this manual, who it’s for, and how to   navigate the RFID Asset Management System effectively — whether you're an   admin, staff, or daily user. ---",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailtomsk/ASM-Document.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mailtomsk/ASM-Document/issues"
+  },
+  "homepage": "https://github.com/mailtomsk/ASM-Document#readme",
+  "dependencies": {
+    "@gitbook-ng/gitbook": "^3.3.6"
+  }
+}
