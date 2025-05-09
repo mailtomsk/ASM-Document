@@ -14,7 +14,7 @@ To begin managing the system, authorized Admin and Admin Users must log in to th
 [https://asm.coreninesolutions.com/login](https://asm.coreninesolutions.com/login)\
 You will see a login screen as shown below:
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 4.59.01 PM.png" alt=""><figcaption><p>Admin Control Panel - Login</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 4.59.01 PM.png" alt=""><figcaption><p>Admin Control Panel - Login</p></figcaption></figure>
 
 #### Credentials and Security
 

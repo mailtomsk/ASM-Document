@@ -18,7 +18,7 @@ Each audit is location-specific and provides a structured approach to:
 
 This flow ensures accountability, operational visibility, and streamlined asset management on the go.
 
-<div><figure><img src="../.gitbook/assets/07_01 Audit Search Location.png" alt="" width="360"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/07_02 Audit Screen.png" alt="" width="360"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/07_10 Audit Screen after Assingning.png" alt="" width="360"><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/07_01 Audit Search Location.png" alt="" width="360"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07_02 Audit Screen.png" alt="" width="360"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07_10 Audit Screen after Assingning.png" alt="" width="360"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -62,7 +62,7 @@ As each tag is scanned, the system updates the audit progress automatically and 
 
 During the scanning process, some tags may appear as **unknown** — meaning they are not yet assigned to any registered asset in the selected location. These tags require immediate attention to ensure accurate inventory mapping.
 
-<div><figure><img src="../.gitbook/assets/07_03 Audit Screen - Unknown Tags.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/07_04 Audit Screen - Assigning Unknown Tags.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/07_05 Audit Screen - Adding New Asset for Unknow Tags.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/07_06 Audit Screen After Assining.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/07_03 Audit Screen - Unknown Tags.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07_04 Audit Screen - Assigning Unknown Tags.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07_05 Audit Screen - Adding New Asset for Unknow Tags.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07_06 Audit Screen After Assining.png" alt=""><figcaption></figcaption></figure></div>
 
 **Screen Views**:
 
@@ -89,7 +89,7 @@ This step ensures that all scanned RFID tags are accurately linked to inventory 
 
 Once an unassigned RFID tag has been selected for action, the app provides a list of existing assets under the selected location. This enables the user to correctly associate the scanned tag with the corresponding asset.
 
-<div><figure><img src="../.gitbook/assets/07_07 Audit Screen Assining Available Tag.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/07_08 Audit Screen Assigning Available Tag.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/07_09 Audit Screen Assingning Confirmation.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/07_07 Audit Screen Assining Available Tag.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07_08 Audit Screen Assigning Available Tag.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/07_09 Audit Screen Assingning Confirmation.png" alt=""><figcaption></figcaption></figure></div>
 
 **Screen Views**:
 
@@ -130,7 +130,7 @@ Once a portion of tags are scanned and assignments are complete, users can revie
 * **Available**: Assets found and matched successfully.
 * **Not Available**: Expected assets not yet scanned.
 
-<figure><img src="../.gitbook/assets/07_11 Audit Screen - View Detail.png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/07_11 Audit Screen - View Detail.png" alt="" width="360"><figcaption></figcaption></figure>
 
 This categorized view helps users:
 
@@ -151,7 +151,7 @@ Once the audit is complete, users are presented with a final review screen:
 * **Expected Section**: Shows the count of successfully scanned/available assets.
 * **Unknown Section**: Indicates any unassigned/unknown tags that were encountered.
 
-<figure><img src="../.gitbook/assets/07_12 Audit Screen - Submit Audit.png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/07_12 Audit Screen - Submit Audit.png" alt="" width="360"><figcaption></figcaption></figure>
 
 **Action**:
 

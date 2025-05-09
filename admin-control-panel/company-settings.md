@@ -18,5 +18,5 @@ The Company Settings module allows the system admin to set and update primary in
 
 This section ensures the company’s identity is properly mapped across all modules and appears in reports and exports for standardization and branding.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 6.40.17 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.40.17 PM.png" alt=""><figcaption></figcaption></figure>
 

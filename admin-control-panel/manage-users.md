@@ -25,7 +25,7 @@ The User List displays all admin and branch users with their details:
   * 🖊️ Edit: Modify user details
   * 🗑️ Delete: Remove user from the system
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 6.16.15 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.16.15 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -47,7 +47,7 @@ Click **+ Add User** to create a new login user. Enter the following information
 
 Once saved, the user gets listed in the **User List** and is ready to log in to the system based on role-based permissions.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 6.16.25 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.16.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

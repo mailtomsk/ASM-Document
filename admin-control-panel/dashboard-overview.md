@@ -11,7 +11,7 @@ description: >-
 
 The **Dashboard** is the first screen you see after a successful admin login. It gives a quick snapshot of the overall system — offering real-time insights on assets, users, and locations. It helps Admins monitor activities at a glance without needing to navigate deeper into other modules.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 2.53.53 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 2.53.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### What You’ll See on the Dashboard
 
@@ -59,6 +59,6 @@ At the bottom, a **"View More..."** link provides access to the full audit repor
 
 ***
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 5.17.48 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.17.48 PM.png" alt=""><figcaption></figcaption></figure>
 
 > ✅ Use the dashboard daily to track changes, identify missing assets, and monitor system growth over time.

@@ -20,6 +20,6 @@ The **Data Synchronization** module allows users to update mobile records with t
 * Offers a clean visual layout to validate sync completion.
 * A "Close" action finalizes and exits the summary popup.
 
-<figure><img src="../.gitbook/assets/05_01 - Data Sync.png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/05_01 - Data Sync.png" alt="" width="360"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/05_02 - Data Sync (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/05_02 - Data Sync (1).png" alt="" width="360"><figcaption></figcaption></figure>

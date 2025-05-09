@@ -47,6 +47,6 @@ Displays a list of all added manufacturers in a tabular format with the followin
 
 The list helps quickly identify available manufacturers and their status. Admins can manage the list with filtering and sorting options.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 5.40.03 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.40.03 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 5.40.11 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.40.11 PM.png" alt=""><figcaption></figcaption></figure>

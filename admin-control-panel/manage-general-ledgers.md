@@ -19,7 +19,7 @@ The General Ledger List provides an overview of all configured ledger entries:
   * 🖊️ Edit: Modify the existing ledger entry
   * 🗑️ Delete: Remove the ledger entry (if not assigned)
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 6.12.53 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.12.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -35,7 +35,7 @@ Click on **+ Add Ledger** to add a new ledger entry. The following fields are re
 
 Once saved, the ledger appears in the General Ledger List and can be used during asset configuration.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2025-05-07 at 6.13.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.13.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
