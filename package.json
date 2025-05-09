@@ -7,8 +7,8 @@
     "serve": "gitbook serve",
     "clean-backups": "find . -name '*.bak' -exec rm {} +",
     "replace-paths": "find . -name '*.md' -exec sed -i.bak 's|\\.gitbook/assets|gitbook-assets|g' {} +",
-    "add-redirects": "/*/gitbook-assets/* /gitbook-assets/:splat 200' > _book/_redirects",
-    "build": "npm run replace-paths && npm run clean-backups && gitbook build && mkdir -p _book/gitbook-assets && cp -r .gitbook/assets/* _book/gitbook-assets/ && npm run add-redirects",
+    "add-redirects": "echo '/*/gitbook-assets/* /gitbook-assets/:splat 200' > _book/_redirects",
+    "build": "npm run replace-paths && npm run clean-backups && gitbook build && mkdir -p _book/gitbook-assets && cp -r .gitbook/assets/* _book/gitbook-assets/",
     "postbuild": "ls -lha _book"
   },
   "repository": {
