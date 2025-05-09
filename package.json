@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "serve": "gitbook serve",
-    "build": "gitbook build"
+    "build": "gitbook build && mkdir -p _book/.gitbook/assets && cp -r .gitbook/assets/* _book/.gitbook/assets",
+    "postbuild": "ls -lha _book"
   },
   "repository": {
     "type": "git",
