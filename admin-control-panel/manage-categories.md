@@ -24,9 +24,9 @@ Main Categories are the top-level classification for grouping similar types of a
 * **Main Category List View**: Quickly view all categories with Code, Name, Status, and Action buttons (Edit/Delete).
 * **Create Main Category**: Input fields for Code, Name, Description, and Status.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.30.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.30.39 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.30.46 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.30.46 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -45,9 +45,9 @@ Each Main Category can have multiple Sub Categories for more granular grouping (
 * **Sub Category List View**: Displays Code, Name, Status, and management actions.
 * **Create Sub Category**: Select a Main Category, define Sub Category details, and choose status.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.30.53 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.30.53 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.30.59 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.30.59 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

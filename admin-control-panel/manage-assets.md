@@ -23,7 +23,7 @@ The Asset Master List gives a summarized view of all asset groups and their curr
   * 🖊️ Edit: Edit Asset Master details
   * 🗑️ Delete: Remove the Asset Master (only if no dependent records)
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.05.20 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.05.20 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -38,7 +38,7 @@ When you click **+ Add Asset Master**, you’ll be taken to the creation screen 
 
 Once saved, the Asset Master is listed in the main view and individual assets can be added.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.06.24 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.06.24 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -59,7 +59,7 @@ Clicking on "View Assets" opens the list of individual items under that master. 
 
 You can also download asset tags or QR Codes using the buttons at the top right.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.05.33 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.05.33 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -73,7 +73,7 @@ Clicking the 👁️ icon on an individual asset opens detailed data in a right 
 * **Warranty Details**
 * **Asset Cost**, **Description**
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.05.40 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.05.40 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -86,7 +86,7 @@ Clicking the 🕒 icon opens a timeline log of the asset’s lifecycle updates:
 * Notes added
 * Timestamp and User info
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.05.56 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.05.56 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

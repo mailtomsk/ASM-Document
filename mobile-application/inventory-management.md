@@ -16,7 +16,7 @@ The **Inventory List** module forms the core of the application’s asset tracki
 * Supports **search** to quickly find specific locations.
 * Serves as the starting point for asset browsing.
 
-<div><figure><img src=".gitbook/assets/06 - Location Screen.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06_01 Location Detail Screen.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06_02 Location Filter Screen.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="gitbook-assets/06 - Location Screen.png" alt=""><figcaption></figcaption></figure> <figure><img src="gitbook-assets/06_01 Location Detail Screen.png" alt=""><figcaption></figcaption></figure> <figure><img src="gitbook-assets/06_02 Location Filter Screen.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -26,7 +26,7 @@ The **Inventory List** module forms the core of the application’s asset tracki
 * Summary boxes highlight the number of **New**, **Available**, **Not Available**, and **Maintenance** items.
 * Each asset card provides asset name, tag number, category, and sub-category.
 
-<div><figure><img src=".gitbook/assets/06_03 Location Assets Screen - New Assets.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06_04_Location_Assets Screen - Available Assets.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="gitbook-assets/06_03 Location Assets Screen - New Assets.png" alt=""><figcaption></figcaption></figure> <figure><img src="gitbook-assets/06_04_Location_Assets Screen - Available Assets.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -40,7 +40,7 @@ The **Inventory List** module forms the core of the application’s asset tracki
   * **Manufacturers**
 * Apply or clear filters easily with action buttons at the bottom.
 
-<div><figure><img src=".gitbook/assets/06_05_Location Complete Asset List.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06_06_Location Complete Asset - New Assets.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06_07_Asset Detail - Available.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/06_08 Asset Detail - New Asset.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="gitbook-assets/06_05_Location Complete Asset List.png" alt=""><figcaption></figcaption></figure> <figure><img src="gitbook-assets/06_06_Location Complete Asset - New Assets.png" alt=""><figcaption></figcaption></figure> <figure><img src="gitbook-assets/06_07_Asset Detail - Available.png" alt=""><figcaption></figcaption></figure> <figure><img src="gitbook-assets/06_08 Asset Detail - New Asset.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

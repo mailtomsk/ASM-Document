@@ -53,6 +53,6 @@ Clicking on **Add Vendor** or editing an existing vendor opens the vendor form.
 * **Edit (🖊️)** – Opens the vendor form in edit mode
 * **Delete (🗑️)** – Deletes the vendor from the list
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.46.23 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.46.23 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.46.31 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.46.31 PM.png" alt=""><figcaption></figcaption></figure>

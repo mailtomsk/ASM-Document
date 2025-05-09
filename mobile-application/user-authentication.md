@@ -14,9 +14,9 @@ The **User Authentication** section is the starting point of the Asset Lite Mobi
 * Reinforces system trust and provides a visually consistent welcome.
 * Transitions automatically to the login interface.
 
-<figure><img src=".gitbook/assets/image(3).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/image(3).png" alt="" width="360"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/01 - Splash Screen.png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/01 - Splash Screen.png" alt="" width="360"><figcaption></figcaption></figure>
 
 ***
 
@@ -29,7 +29,7 @@ The **User Authentication** section is the starting point of the Asset Lite Mobi
   * “Forgot Password?” link for easy access to recovery.
 * **Action**: On successful login, users are directed to the dashboard.
 
-<figure><img src=".gitbook/assets/02 - Login Screen (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/02 - Login Screen (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 ***
 
@@ -40,4 +40,4 @@ The **User Authentication** section is the starting point of the Asset Lite Mobi
 * **Action Button**: Sends reset instructions to the provided email.
 * Smooth modal interface with clean UX.
 
-<figure><img src=".gitbook/assets/03 - Forgot Password.png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/03 - Forgot Password.png" alt="" width="360"><figcaption></figcaption></figure>

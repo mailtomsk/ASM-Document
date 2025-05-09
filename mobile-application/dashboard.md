@@ -8,7 +8,7 @@ description: >-
 
 The Dashboard provides a high-level summary and actionable interface for users to navigate essential features quickly and view the system’s operational state.
 
-<figure><img src=".gitbook/assets/04 - Dashboard.png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/04 - Dashboard.png" alt="" width="360"><figcaption></figcaption></figure>
 
 ***
 

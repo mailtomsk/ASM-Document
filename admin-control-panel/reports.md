@@ -8,7 +8,7 @@ description: >-
 
 The Reports module helps administrators monitor asset status across different departments and audits. It includes three main types of reports that allow for detailed inspection of asset records, audit outcomes, and inventory status per location.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.19.36 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.19.36 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -28,9 +28,9 @@ The Reports module helps administrators monitor asset status across different de
   * "Asset Detailed View" provides an item-level list with columns for Asset Name, RFID, Tag Number, and current Status.
   * Ideal for validating current asset presence, identifying misplacements, and spotting missing or unregistered assets during audits.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.26.47 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.26.47 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.26.57 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.26.57 PM.png" alt=""><figcaption></figcaption></figure>
 
 * **Asset Audit Reports**
   * Filter assets by name, location, category, and subcategory.
@@ -55,7 +55,7 @@ The Reports module helps administrators monitor asset status across different de
 
       This module ensures traceability and improves accountability across audits and locations in the asset management system.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.30.31 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.30.31 PM.png" alt=""><figcaption></figcaption></figure>
 
 * **Locations Reports**
   * Displays all asset counts per **room, corridor, or department**.
@@ -65,6 +65,6 @@ The Reports module helps administrators monitor asset status across different de
     * Each asset’s **Tag Number**, **Type**, **Status**, and associated audit metadata.
   * Enhances visibility of asset distribution and movement across the facility.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.34.43 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.34.43 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 6.34.51 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 6.34.51 PM.png" alt=""><figcaption></figcaption></figure>

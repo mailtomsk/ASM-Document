@@ -27,7 +27,7 @@ The **Locations / List** page displays:
 
 Admins can also **filter** locations by name and status for easy access.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.25.53 PM.png" alt=""><figcaption><p>All Locations</p></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.25.53 PM.png" alt=""><figcaption><p>All Locations</p></figcaption></figure>
 
 ***
 
@@ -42,7 +42,7 @@ From the **+ Add Location** button:
 
 Once saved, the location is added to the system and ready to be used during asset tagging or auditing.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.26.03 PM.png" alt=""><figcaption><p>Add New Location</p></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.26.03 PM.png" alt=""><figcaption><p>Add New Location</p></figcaption></figure>
 
 ***
 
@@ -75,7 +75,7 @@ Clicking the 🔍 **Info Icon** opens the **Asset Detailed View**, showing:
 
 A mini statistics graph provides a visual summary of asset statuses within that location.
 
-<figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 5.26.28 PM.png" alt=""><figcaption><p>Location Detail View</p></figcaption></figure>
+<figure><img src="gitbook-assets/Screen Shot 2025-05-07 at 5.26.28 PM.png" alt=""><figcaption><p>Location Detail View</p></figcaption></figure>
 
 ***
 
